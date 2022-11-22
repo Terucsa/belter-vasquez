@@ -1,6 +1,6 @@
 let banderaGrupo = document.getElementById('banderasJuntas');
 
-
+vereficarBandera();
 function vereficarBandera(elemento){
     let insertaBanderas = document.getElementById('insertarContenido');
 
